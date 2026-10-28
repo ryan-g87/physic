@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PhysicsLab.vcxproj" Id="431603fe-841d-40b8-801a-1dbfb81cfa47" />
+</Solution>
